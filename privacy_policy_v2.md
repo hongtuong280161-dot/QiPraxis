@@ -1,7 +1,7 @@
 # Privacy Policy  
 **QiPraxis**
 
-_Last updated: April 2026_15
+_Last updated: April 2026_
 
 QiPraxis ("the App") is a digital breathing and practice support tool designed to assist users in structured breathing exercises and personal practice routines.
 
